@@ -1,6 +1,6 @@
 {
-  "name": "console-plus",
-  "version": "0.1.0",
+  "name": "@chams107/super-console",
+  "version": "0.1.1",
   "author": "Bouzaiene Chamsddine <bouzaiene.ch@gmail.com>",
   "description": "Logging with filenames and line numbers and colors",
   "keywords": [

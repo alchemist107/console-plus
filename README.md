@@ -1,4 +1,4 @@
-# console-plus
+# super-console
 
 - Logging with filenames and line numbers
 - stack trace
