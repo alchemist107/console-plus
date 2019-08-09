@@ -1,4 +1,5 @@
-console-plus
-============
+# console-plus
 
-Logging with filenames and line numbers
+- Logging with filenames and line numbers
+- stack trace
+- custom colors for info & warrnings

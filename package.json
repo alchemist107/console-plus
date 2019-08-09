@@ -1,12 +1,13 @@
 {
   "name": "console-plus",
-  "version": "0.1.1",
-  "author": "Itadakimasu <mgb.nguyen@gmail.com>",
-  "description": "Logging with filenames and line numbers",
-    "keywords": [
+  "version": "0.1.0",
+  "author": "Bouzaiene Chamsddine <bouzaiene.ch@gmail.com>",
+  "description": "Logging with filenames and line numbers and colors",
+  "keywords": [
     "console",
     "trace",
-    "line"
+    "line",
+    "tracking"
   ],
   "engines": {
     "node": "*"
@@ -14,12 +15,12 @@
   "main": "./console-plus.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/itadakimasu/console-plus.git"
+    "url": "https://github.com/alchemist107/console-plus.git"
   },
   "dependencies": {
     "callsite": "0.0.2"
   },
   "scripts": {
-  	"test": "NODE_ENV=test mocha test"
+    "test": "NODE_ENV=test mocha test"
   }
 }
